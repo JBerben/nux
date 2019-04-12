@@ -1,0 +1,38 @@
+cower                 # AUR helper (Arch Linux)
+dropbox               # sync stuff
+dropbox-cli           # commandline-version
+feh                   # image viewer
+firefox               # preferred browser
+gajim                 # IM program (GUI)
+gcolor2               # color picker
+git                   # version control
+htop                  # interactive process viewer
+imagemagick           # CLI image manipulator
+jabref                # BibTeX reference manager
+keepassx              # password manager
+mpv                   # media player; fork of mplayer/mplayer2
+mupdf                 # minimalist PDF viewer
+mutt                  # text-based email client
+ncmpcpp               # ncurses MPD client (music)
+newsbeuter            # text-based RSS reader
+programmers-dvorak    # preferred keyboard layout
+rsync                 # for backups, etc.
+rubber                # for easy LaTeX compiling
+rxvt-unicode          # preferred terminal emulator
+scrot                 # for taking screen shots
+skype                 # chat & video
+terminus-font         # nice monospace font
+transmission-qt       # for torrenting (GUI; see `rtorrent' for text-based)
+tree                  # view directories and files as trees
+units                 # console unit conversion tool
+urxvt-perls           # extensions to rxvt-unicode
+vim                   # preferred text editor
+w3m                   # text-based browser (mostly used in mutt for html email)
+weechat-git           # text-based chat program
+xmobar                # status bar for xmonad
+xmonad                # preferred window manager
+xmonad-contrib        # extra modules for xmonad
+zathura               # document viewer with vi-like keybindings
+zathura-djvu          # DjVu support
+zathura-pdf-poppler   # PDF support
+zsh                   # preferred shell
